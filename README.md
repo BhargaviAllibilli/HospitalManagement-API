@@ -31,7 +31,7 @@ It's a REST API for managing hospital operations like patients, doctors and appo
 - How to build production-quality APIs with proper error handling
 
 ## Folder structure
-- Domain — entities and interfaces
-- Application — business logic and services  
-- Infrastructure — database and repositories
-- API — controllers and middleware
+- Domain: entities and interfaces
+- Application: business logic and services  
+- Infrastructure: database and repositories
+- API: controllers and middleware
